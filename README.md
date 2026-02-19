@@ -1,7 +1,7 @@
 # FusionExtended 🇺🇸
 
-[![GitHub release](https://img.shields.io/github/v/release/TON_USERNAME/FusionExtended)](https://github.com/TON_USERNAME/FusionExtended/releases)
-[![License](https://img.shields.io/github/license/TON_USERNAME/FusionExtended)](LICENSE)
+[![GitHub release](https://img.shields.io/github/v/release/ZenTheScripter/FusionExtended)](https://github.com/ZenTheScripter/FusionExtended/releases)
+[![License](https://img.shields.io/github/license/ZenTheScripter/FusionExtended)](LICENSE)
 
 **FusionExtended** is a fork of [LabFusion](https://github.com/LavaGang/LabFusion), optimized to provide a smoother, more stable, and feature-rich multiplayer experience for BONELAB.
 
